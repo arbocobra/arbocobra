@@ -11,6 +11,6 @@ Completed:
 2. [Minesweeper](https://arbocobra.github.io/redux-minesweeper/) ([git](https://github.com/arbocobra/redux-minesweeper))
 
 In progress:
-1. That My MP? - Who's my MP and what do they vote for? Built in Next.JS using OpenParliament API ([git](https://github.com/arbocobra/that-my-mp))
+1. [That My MP??(https://that-my-mp.vercel.app/)] - Who's my MP and what do they vote for? Next steps include incorporating data on Bills in voting record. Built with Next.JS using OpenParliament API ([git](https://github.com/arbocobra/that-my-mp))
 
 ![blacksmith-reading](http://madeforge.com/wp-content/uploads/2025/07/DSC_0117.jpg)
