@@ -12,7 +12,8 @@ Completed:
 3. [Minesweeper](https://arbocobra.github.io/redux-minesweeper/) ([git](https://github.com/arbocobra/redux-minesweeper))
 
 In progress:
-1. [That My MP??](https://that-my-mp.vercel.app/) - Who's my MP and what do they vote for? Next steps include incorporating data on Bills in voting record. Built with Next.JS using OpenParliament API ([git](https://github.com/arbocobra/that-my-mp))
+1. [Wheel of Time Scrolling Map](https://arbocobra.github.io/map-app/) - Scrolling map showing characters' paths as they journey across the continent in the Wheel of Time series, built using Motion.dev animation library. Book One complete. ([git](https://github.com/arbocobra/map-app))
+2. [That My MP??](https://that-my-mp.vercel.app/) - Who's my MP and what do they vote for? Next steps include incorporating data on Bills in voting record. Built with Next.JS using OpenParliament API ([git](https://github.com/arbocobra/that-my-mp))
 
 ![blacksmith-with-torch](http://madeforge.com/wp-content/uploads/2025/07/DSC_0117.jpg)
 
